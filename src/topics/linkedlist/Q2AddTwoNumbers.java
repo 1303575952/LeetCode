@@ -1,4 +1,4 @@
-package topics.math;
+package topics.linkedlist;
 
 /**
  * 
@@ -22,7 +22,7 @@ class ListNode {
 	}
 }
 
-public class AddTwoNumbers {
+public class Q2AddTwoNumbers {
 	public static void main(String[] args) {
 
 	}
