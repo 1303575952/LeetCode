@@ -1,4 +1,4 @@
-package topics.array;
+package topics.hashtable;
 
 import java.util.HashMap;
 
