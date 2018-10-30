@@ -11,10 +11,10 @@ package topics.dynamicprogramming;
  * 
  *         Example 2: Input: "cbbd" Output: "bb"
  */
-public class Q5LongestPalindromicSubstring {
+public class Q5_LongestPalindromicSubstring {
 	public static void main(String[] args) {
 		String str = "babad";
-		System.out.println(new Q5LongestPalindromicSubstring().getLongestPalindromicSubString(str));
+		System.out.println(new Q5_LongestPalindromicSubstring().getLongestPalindromicSubString(str));
 	}
 	public String getLongestPalindromicSubString(String str){
 		StringBuffer sb = new StringBuffer("");

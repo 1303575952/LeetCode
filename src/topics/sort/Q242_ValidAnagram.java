@@ -18,11 +18,11 @@ import java.util.HashMap;
  *         Follow up: What if the inputs contain unicode characters? How would
  *         you adapt your solution to such case?
  */
-public class Q242ValidAnagram {
+public class Q242_ValidAnagram {
 	public static void main(String[] args) {
 		String s = "anagram";
 		String t = "nagaram";
-		System.out.println(new Q242ValidAnagram().isAnagram(s, t));
+		System.out.println(new Q242_ValidAnagram().isAnagram(s, t));
 	}
 
 	public boolean isAnagram(String s, String t) {

@@ -13,9 +13,9 @@ package topics.math;
  * 
  *         Example 3: Input: 120 Output: 21
  */
-public class Q7ReverseInteger {
+public class Q7_ReverseInteger {
 	public static void main(String[] args) {
-		System.out.println(new Q7ReverseInteger().reverse(-1230));
+		System.out.println(new Q7_ReverseInteger().reverse(-1230));
 	}
 
 	public int reverse(int x) {

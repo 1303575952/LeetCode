@@ -1,4 +1,4 @@
-package topics.twopointers;
+package topics.string;
 
 import java.util.HashSet;
 
@@ -19,10 +19,10 @@ import java.util.HashSet;
  *         "wke", with the length of 3. Note that the answer must be a
  *         substring, "pwke" is a subsequence and not a substring.
  */
-public class Q3LongestSubstringWithoutRepeatingCharacters {
+public class Q3_LongestSubstringWithoutRepeatingCharacters {
 	public static void main(String[] args) {
 		String str = "bcbcabb";
-		System.out.println(new Q3LongestSubstringWithoutRepeatingCharacters().lengthOfNoRepeating(str));
+		System.out.println(new Q3_LongestSubstringWithoutRepeatingCharacters().lengthOfNoRepeating(str));
 	}
 	public int lengthOfNoRepeating(String str) {
 		int len = 1;

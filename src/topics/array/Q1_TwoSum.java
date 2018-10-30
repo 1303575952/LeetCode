@@ -1,4 +1,4 @@
-package topics.hashtable;
+package topics.array;
 
 import java.util.HashMap;
 
@@ -14,11 +14,11 @@ import java.util.HashMap;
  *         Example: Given nums = [2, 7, 11, 15], target = 9, Because nums[0] +
  *         nums[1] = 2 + 7 = 9, return [0, 1].
  */
-public class Q1TwoSum {
+public class Q1_TwoSum {
 	public static void main(String[] args) {
 		int[] arr = { 2, 7, 11, 15 };
 		int target = 9;
-		int[] ans = new Q1TwoSum().getIndexOfTwoNums(arr, target);
+		int[] ans = new Q1_TwoSum().getIndexOfTwoNums(arr, target);
 		System.out.println(ans[0] + " " + ans[1]);
 	}
 

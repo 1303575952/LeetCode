@@ -22,7 +22,7 @@ class ListNode {
 	}
 }
 
-public class Q2AddTwoNumbers {
+public class Q2_AddTwoNumbers {
 	public static void main(String[] args) {
 
 	}

@@ -41,6 +41,6 @@ package topics.math;
  *         number "-91283472332" is out of the range of a 32-bit signed integer.
  *         Thefore INT_MIN (−231) is returned.
  */
-public class Q8StringtoInteger_atoi {
+public class Q8_StringtoInteger_atoi {
 	
 }

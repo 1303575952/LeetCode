@@ -22,9 +22,9 @@ import java.util.List;
  *         Follow up: Coud you solve it without converting the integer to a
  *         string?
  */
-public class Q9PalindromeNumber {
+public class Q9_PalindromeNumber {
 	public static void main(String[] args) {
-		System.out.println(new Q9PalindromeNumber().isPalindrome(121));
+		System.out.println(new Q9_PalindromeNumber().isPalindrome(121));
 	}
 	public boolean isPalindrome(int num){
 		List<Integer> list = new ArrayList<Integer>();

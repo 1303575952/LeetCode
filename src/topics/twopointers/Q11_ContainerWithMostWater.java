@@ -16,10 +16,10 @@ package topics.twopointers;
  *         Example: Input: [1,8,6,2,5,4,8,3,7] Output: 49
  */
 
-public class Q11ContainerWithMostWater {
+public class Q11_ContainerWithMostWater {
 	public static void main(String[] args) {
 		int[] height = { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
-		System.out.println(new Q11ContainerWithMostWater().maxArea(height));
+		System.out.println(new Q11_ContainerWithMostWater().maxArea(height));
 	}
 
 	public int maxArea(int[] height) {

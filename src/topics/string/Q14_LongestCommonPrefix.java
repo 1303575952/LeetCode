@@ -15,10 +15,10 @@ package topics.string;
  * 
  *         Note: All given inputs are in lowercase letters a-z.
  */
-public class Q14LongestCommonPrefix {
+public class Q14_LongestCommonPrefix {
 	public static void main(String[] args) {
 		String[] arr = {"flower","flow","flight"};
-		System.out.println(new Q14LongestCommonPrefix().commonPrefixInArr(arr));
+		System.out.println(new Q14_LongestCommonPrefix().commonPrefixInArr(arr));
 	}
 	public String commonPrefixInArr(String[] arr){
 		String commonStr = arr[0];

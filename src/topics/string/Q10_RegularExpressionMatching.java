@@ -30,6 +30,6 @@ package topics.string;
  * 
  *         Example 5: Input: s = "mississippi" p = "mis*is*p*." Output: false
  */
-public class Q10RegularExpressionMatching {
+public class Q10_RegularExpressionMatching {
 
 }
