@@ -5,4 +5,5 @@
 * 2.[Add Two Numbers] (Medium) *20181029 finished*
 * 3.[Longest Substring Without Repeating Characters] (Medium) *20181030 finished*
 * 4.[Median of Two Sorted Arrays] (Hard) **NOT UNDERSTAND**
-* 5.[Longest Palindromic Substring] (Medium) *2018/10/30 finished* **There is even an O(n) algorithm called Manacher's algorithm**
+* 5.[Longest Palindromic Substring] (Medium) *20181030 finished* **There is even an O(n) algorithm called Manacher's algorithm**
+* 6.[Zig Zag Conversion] (Medium) *20181030 finished* **too lazy to think about this question**
