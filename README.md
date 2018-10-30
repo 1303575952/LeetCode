@@ -11,4 +11,6 @@
 * 8.[String to Integer (atoi)] (Medium) **too lazy to think about this question**
 * 9.[Palindrome Number] (Easy) *20181030 finished*
 * 10.[Regular Expression Matching] (Hard) **NOT UNDERSTAND**
-* 11.[Container With Most Water] (Medium *20181030 finished*)
+* 11.[Container With Most Water] (Medium) *20181030 finished*
+* 12.[Integer To Roman] (Medium) **Too Hard To Answer**
+* 14.[Longest Common Prefix] (Easy) *20181030 finished*
