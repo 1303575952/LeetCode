@@ -14,5 +14,6 @@
 * 11.[Container With Most Water] (Medium) *20181030 finished*
 * 12.[Integer To Roman] (Medium) **Too Hard To Answer**
 * 14.[Longest Common Prefix] (Easy) *20181030 finished*
-* 15.[3 Sum] (Medium) **
+* 15.[3 Sum] (Medium) **Too Hard To Answer**
+* 17.[Letter Combinations of a Phone Number] (Medium) *20181030 finished* **but backtracking is not finished yet**
 * 242.[Valid Anagram] (Easy) *20181030 finished*
