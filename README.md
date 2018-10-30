@@ -7,3 +7,6 @@
 * 4.[Median of Two Sorted Arrays] (Hard) **NOT UNDERSTAND**
 * 5.[Longest Palindromic Substring] (Medium) *20181030 finished* **There is even an O(n) algorithm called Manacher's algorithm**
 * 6.[Zig Zag Conversion] (Medium) *20181030 finished* **too lazy to think about this question**
+* 7.[Reverse Integer] *20181030 finished*
+* 8.[String to Integer (atoi)] (Medium) **too lazy to think about this question**
+* 9.[Palindrome Number] (Easy) *20181030 finished*
