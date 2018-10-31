@@ -14,6 +14,7 @@ package topics.linkedlist;
  * 
  *         Follow up: Could you do this in one pass?
  */
+
 public class Q19_RemoveNthNodeFromEndOfList {
 	public static void main(String[] args) {
 		ListNode list = new ListNode(1);
