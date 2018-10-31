@@ -16,4 +16,5 @@
 * 14.[Longest Common Prefix] (Easy) *20181030 finished*
 * 15.[3 Sum] (Medium) **Too Hard To Answer**
 * 17.[Letter Combinations of a Phone Number] (Medium) *20181030 finished* **but backtracking is not finished yet**
+* 19.[Remove Nth Node From End of List] (Medium) *20181031 finished*
 * 242.[Valid Anagram] (Easy) *20181030 finished*
