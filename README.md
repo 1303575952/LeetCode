@@ -19,4 +19,5 @@
 * 19.[Remove Nth Node From End of List] (Medium) *20181031 finished*
 * 20.[Valid Parentheses] (Easy) *20181031 finished*
 * 21.[Merge Two Sorted Lists] (Easy) *20181031 finished*
+* 22.[Generate Parentheses] (Medium) *20181101 finished* **Retry**
 * 242.[Valid Anagram] (Easy) *20181030 finished*
