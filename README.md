@@ -22,4 +22,5 @@
 * 22.[Generate Parentheses] (Medium) *20181101 finished* **Retry**
 * 26.[Remove Duplicates From Sorted Array] (Easy) *20181101 finished*
 * 27.[Remove Element] (Easy) *20181101 finished*
+* 32.[Longest Valid Parentheses] (Hard) *20181101 finished* **Need To Try Dynamic Programming**
 * 242.[Valid Anagram] (Easy) *20181030 finished*
