@@ -21,4 +21,5 @@
 * 21.[Merge Two Sorted Lists] (Easy) *20181031 finished*
 * 22.[Generate Parentheses] (Medium) *20181101 finished* **Retry**
 * 26.[Remove Duplicates From Sorted Array] (Easy) *20181101 finished*
+* 27.[Remove Element] (Easy) *20181101 finished*
 * 242.[Valid Anagram] (Easy) *20181030 finished*
