@@ -26,3 +26,4 @@
 * 32.[Longest Valid Parentheses] (Hard) *20181101 finished* **Need To Try Dynamic Programming**
 * 240.[Search a 2D Matrix II] (Medium) *20181105 finished* **is there O(logm+logn) solution ?**
 * 242.[Valid Anagram] (Easy) *20181030 finished*
+* 344.[Reverse String] (Easy) *20181113 finished*
