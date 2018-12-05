@@ -25,6 +25,7 @@
 * 27.[Remove Element] (Easy) *20181101 finished*
 * 32.[Longest Valid Parentheses] (Hard) *20181101 finished* **Need To Try Dynamic Programming**
 * 41.[First Missing Positive] (Hard) *20181205 finished* **Can't Run In O(n) Time And Uses Constant Extra Space**
+* 67.[Add Binary] (Easy) *20181205 finished* **Bit Operation May More Useful**
 * 240.[Search a 2D Matrix II] (Medium) *20181105 finished* **is there O(logm+logn) solution ?**
 * 242.[Valid Anagram] (Easy) *20181030 finished*
 * 344.[Reverse String] (Easy) *20181113 finished*
