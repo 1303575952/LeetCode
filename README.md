@@ -1,7 +1,7 @@
 # LeetCode-lifei
 重做一遍LeetCode
 
-* 1.[Two Sum] (easy) *2018/10/29 finished*
+* 1.[Two Sum] (easy) *20181029 finished*
 * 2.[Add Two Numbers] (Medium) *20181029 finished*
 * 3.[Longest Substring Without Repeating Characters] (Medium) *20181030 finished*
 * 4.[Median of Two Sorted Arrays] (Hard) **NOT UNDERSTAND**
@@ -24,6 +24,7 @@
 * 26.[Remove Duplicates From Sorted Array] (Easy) *20181101 finished*
 * 27.[Remove Element] (Easy) *20181101 finished*
 * 32.[Longest Valid Parentheses] (Hard) *20181101 finished* **Need To Try Dynamic Programming**
+* 41.[First Missing Positive] (Hard) *20181205 finished* **Can't Run In O(n) Time And Uses Constant Extra Space**
 * 240.[Search a 2D Matrix II] (Medium) *20181105 finished* **is there O(logm+logn) solution ?**
 * 242.[Valid Anagram] (Easy) *20181030 finished*
 * 344.[Reverse String] (Easy) *20181113 finished*
