@@ -1,5 +1,5 @@
-# LeetCode-lifei
-重做一遍LeetCode
+# LeetCode
+做一遍LeetCode
 
 * 1.[Two Sum] (Array & Hash Table) (Easy) *20190121 finished*
 * 2.[Add Two Numbers] (Linked List & Math) (Medium) *20190121 finished*
