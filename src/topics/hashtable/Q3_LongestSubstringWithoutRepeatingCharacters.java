@@ -17,6 +17,8 @@ import java.util.HashSet;
  * Example 3: Input: "pwwkew" Output: 3 Explanation: The answer is
  * "wke", with the length of 3. Note that the answer must be a
  * substring, "pwke" is a subsequence and not a substring.
+ * <p>
+ * 通过HashSet中元素不可重复做
  */
 public class Q3_LongestSubstringWithoutRepeatingCharacters {
     public static void main(String[] args) {

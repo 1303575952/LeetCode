@@ -3,7 +3,7 @@
 
 * 1.[Two Sum] (Array & Hash Table) (Easy) *20190911 finished*
 * 2.[Add Two Numbers] (Linked List & Math) (Medium) *20190911 finished*
-* 3.[Longest Substring Without Repeating Characters] (Hash Table & Two Pointers & String) (Medium) *20190128 finished*
+* 3.[Longest Substring Without Repeating Characters] (Hash Table & Two Pointers & String) (Medium) *20190911 finished*
 * 4.[Median of Two Sorted Arrays] (Array & Binary Search & Divide and Conquer) (Hard) *20190202* **NOT UNDERSTAND O(log(m+n))**
 * 5.[Longest Palindromic Substring] (String & Dynamic Programming) (Medium) *20180202* **There is even an O(n) algorithm called Manacher's algorithm**
 * 6.[Zig Zag Conversion] (String) (Medium) *20180202* **Dizzy**
