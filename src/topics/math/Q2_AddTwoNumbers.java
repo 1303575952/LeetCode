@@ -11,6 +11,8 @@ package topics.math;
  * <p>
  * Example: Input: (2 -> 4 -> 3) + (5 -> 6 -> 4) Output: 7 -> 0 -> 8
  * Explanation: 342 + 465 = 807.
+ * <p>
+ * 给出的例子太误导人了，243+564=807，342+465=807，要不是Explanation都不知道从高位还是低位加
  */
 class ListNode {
     int val;
@@ -23,7 +25,16 @@ class ListNode {
 
 public class Q2_AddTwoNumbers {
     public static void main(String[] args) {
-
+        ListNode l1 = new ListNode(7);
+        l1.next = new ListNode(0);
+        l1.next.next = new ListNode(8);
+        ListNode l2 = new ListNode(4);
+        l2.next = new ListNode(9);
+        ListNode l = new Q2_AddTwoNumbers().addTwoNumbers(l1, l2);
+        while (l != null) {
+            System.out.println(l.val + " ");
+            l = l.next;
+        }
     }
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
