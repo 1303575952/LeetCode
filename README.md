@@ -5,7 +5,7 @@
 * 2.[Add Two Numbers] (Linked List & Math) (Medium) *20190911 finished*
 * 3.[Longest Substring Without Repeating Characters] (Hash Table & Two Pointers & String) (Medium) *20190911 finished*
 * 4.[Median of Two Sorted Arrays] (Array & Binary Search & Divide and Conquer) (Hard) *20190912 finished* **try again**
-* 5.[Longest Palindromic Substring] (String & Dynamic Programming) (Medium) *20180202* **There is even an O(n) algorithm called Manacher's algorithm**
+* 5.[Longest Palindromic Substring] (String & Dynamic Programming) (Medium) *20190921* **There is even an O(n) algorithm called Manacher's algorithm**
 * 6.[Zig Zag Conversion] (String) (Medium) *20180202* **Dizzy**
 * 7.[Reverse Integer] *20181030 finished*
 * 8.[String to Integer (atoi)] (Medium) **too lazy to think about this question**
